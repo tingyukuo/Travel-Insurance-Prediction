@@ -1,0 +1,24 @@
+{\rtf1\ansi\ansicpg950\cocoartf2706
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red24\green25\blue27;\red46\green49\blue51;\red46\green49\blue51;
+}
+{\*\expandedcolortbl;;\cssrgb\c12549\c12941\c14118;\cssrgb\c23529\c25098\c26275;\cssrgb\c23529\c25098\c26275;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa160\partightenfactor0
+
+\f0\b\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Content\
+\pard\pardeftab720\sa320\partightenfactor0
+
+\f1\b0\fs28 \cf3 \strokec3 Age\uc0\u65306 Age Of The Customer\
+Employment Type\cf4 \outl0\strokewidth0 \uc0\u65306 \cf3 \outl0\strokewidth0 \strokec3  The Sector In Which Customer Is Employed\
+GraduateOrNot\cf4 \outl0\strokewidth0 \uc0\u65306 \cf3 \outl0\strokewidth0 \strokec3  Whether The Customer Is College Graduate Or Not\
+AnnualIncome\uc0\u65306  The Yearly Income Of The Customer In Indian Rupees[Rounded To Nearest 50 Thousand Rupees]\
+FamilyMembers\uc0\u65306  Number Of Members In Customer's Family\
+ChronicDisease\uc0\u65306  Whether The Customer Suffers From Any Major Disease Or Conditions Like Diabetes/High BP or Asthama,etc.\
+FrequentFlyer\uc0\u65306  Derived Data Based On Customer's History Of Booking Air Tickets On Atleast 4 Different Instances In The Last 2 Years[2017\u65306 2019].\
+EverTravelledAbroad\uc0\u65306  Has The Customer Ever Travelled To A Foreign Country[Not Necessarily Using The Company's Services]\
+TravelInsurance\uc0\u65306  Did The Customer Buy Travel Insurance Package During Introductory Offering Held In The Year 2019.\
+}
